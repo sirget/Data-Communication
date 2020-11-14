@@ -1,2 +1,2 @@
 # Data-Communication
-Lab Data communication
+course Data Communication Year 2 semester 1
